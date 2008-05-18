@@ -1,0 +1,18 @@
+Footprints for pcb , the interactive pcb layout editor (hhtp://pcb.sourceforge.net)
+
+I Added a directory structure to reflect the status of the footprint.
+
+"01_under_construction"
+The basic idea is to start with a footprint in this directory.
+
+"02_experimental"
+This is a directory for newly born footprints which have not been scrutenised 
+for flaws or errors whatsoever.
+
+"03_stable"
+This is a directory for footprints used in pcb design, these have been checked 
+with pcb it's Design Rule Checking feature.
+
+"04_released"
+This is a directory for footprints used in an actually build (prototype) pcbs.
+These footprints are tested in a "live" environment.
