@@ -1,4 +1,4 @@
-Element["" "LEDM350X350X120_Optek_OVS5MWBCR4__white.fp" "LED" "OVS5MWBCR4" 181102 181102 0 0 0 100 ""]
+Element["" "LEDM350X350X120_Optek_OVS5MWBCR4__white" "LED" "OVS5MWBCR4" 181102 181102 0 0 0 100 ""]
 (
         Pad[-3543 4724 3543 4724 3937 1200 4537 "" "1" "square"]
         Pad[0 7481 0 7874 2362 1200 2962 "" "1" "square,edge2"]
