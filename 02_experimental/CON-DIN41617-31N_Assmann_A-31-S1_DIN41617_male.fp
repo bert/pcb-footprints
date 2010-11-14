@@ -4,7 +4,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element["" "CON_DIN41617-31N__Assmann_A-31-S1" "K?" "A-31-S1" 301575 221850 0 0 0 100 ""]
+Element["" "CON_DIN41617-31N__Assmann_A-31-S1_male" "K?" "A-31-S1" 301575 221850 0 0 0 100 ""]
 (
 	Pin[-147638 -4920 7200 2000 7200 5200 "" "1" "square,edge2"]
 	Pin[-137796 4922 7200 2000 7200 5200 "" "2" "edge2"]

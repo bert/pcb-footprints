@@ -1,4 +1,4 @@
-Element[0x0 "ON-HDR-254P-20C-1R-20N_Mill-Max__800-Series_.fp" "J?" "Mill-Max 800-Series" 0 0 -100000 -12000 0 100 0x0]
+Element[0x0 "ON-HDR-254P-20C-1R-20N_Mill-Max__800-Series_" "J?" "Mill-Max 800-Series" 0 0 -100000 -12000 0 100 0x0]
 (
    Pin[-95000 0 6600 2000 8600 4600 "" "1" 0x0101]
    Pin[-85000 0 6600 2000 8600 4600 "" "2" 0x01]

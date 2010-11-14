@@ -4,7 +4,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element["" "powerstrip_50x2_horizontal" "PWR?" "" 15000 45000 0 0 0 100 ""]
+Element["" "CON-BB-50C-2R-100N_powerstrip__horizontal" "PWR?" "" 15000 45000 0 0 0 100 ""]
 (
 	Pin[20000 10000 6000 2000 6600 3500 "" "1" "square,edge2"]
 	Pin[30000 10000 6000 2000 6600 3500 "" "2" "edge2"]

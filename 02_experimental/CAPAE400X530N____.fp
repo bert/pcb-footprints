@@ -3,7 +3,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element["" "CAPAE400X530N____.fp" "C?" "" 0 0 0 0 0 100 ""]
+Element["" "CAPAE400X530N____" "C?" "" 0 0 0 0 0 100 ""]
 (
         Pad[ 0 -8268 0 -3543 5149 1000 6149 "Plus"  "1" "square"]
         Pad[ 0  8268 0  3543 5149 1000 6149 "Minus" "2" "square"]

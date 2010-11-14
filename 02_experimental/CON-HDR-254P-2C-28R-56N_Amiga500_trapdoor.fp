@@ -4,7 +4,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element[0x00000000 "CON_HDR-254P-2x28-56N" "K?" "56pin angle" 20000 280000 0 0 0 100 0x00000000]
+Element[0x00000000 "CON_HDR-254P-2C-28R-56N_Amiga500_trapdoor" "K?" "56pin angle" 20000 280000 0 0 0 100 0x00000000]
 (
 	Pin[-10000 -270000 6000 3000 6600 3000 "56" "56" 0x00000101]
 	Pin[0 -270000 6000 3000 6600 3000 "55" "55" 0x00000001]

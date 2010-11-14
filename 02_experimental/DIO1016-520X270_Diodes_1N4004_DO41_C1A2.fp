@@ -4,7 +4,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element["" "DIO1016-520X270" "D?" "Diodes 1N4004" -20000 -11500 0 0 0 100 ""]
+Element["" "DIO1016-520X270_Diodes_1N4004_DO41_C1A2" "D?" "Diodes 1N4004" -20000 -11500 0 0 0 100 ""]
 (
    Pin[-20000 0 6000 2000 6600 4000 "C" "1" "edge2"]
    Pin[20000 0 6000 2000 6600 4000 "A" "2" "edge2"]

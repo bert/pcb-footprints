@@ -4,7 +4,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element["" "DIOMELF3515X15N" "D?" "LL4148" 0 0 0 -14527 0 100 ""]
+Element["" "DIOMELF3515X15N____" "D?" "LL4148" 0 0 0 -14527 0 100 ""]
 (
 	Pad[-6889 1476 -6889 -1476 3937 787 5511 "C" "1" "square"]
 	Pad[6889 1476 6889 -1476 3937 787 5511 "A" "2" "square"]

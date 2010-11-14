@@ -4,7 +4,7 @@
 # use-license: unlimited
 # vendor: Wima
 
-Element["" "CAPR750-300X1000X850" "C?" "Wima 22nF MKS4" 54134 273622 0 0 0 100 ""]
+Element["" "CAPR750-300X1000X850_Wima__MKS4_" "C?" "Wima 22nF MKS4" 54134 273622 0 0 0 100 ""]
 (
 	Pin[-14764 0 6000 2000 6600 3000 "" "1" "edge2"]
 	Pin[14764 0 6000 2000 6600 3000 "" "2" "edge2"]

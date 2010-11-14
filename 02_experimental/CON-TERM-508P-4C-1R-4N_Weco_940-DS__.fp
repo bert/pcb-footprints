@@ -4,7 +4,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element["" "CON-TERM-508P-4C-1R-4N" "J?" "Weco_940-DS" 60000 25000 0 20000 0 100 ""]
+Element["" "CON-TERM-508P-4C-1R-4N_Weco_940-DS__" "J?" "Weco_940-DS" 60000 25000 0 20000 0 100 ""]
 (
 	Pin[-30000 0 10000 2000 10600 5000 "" "1" "edge2"]
 	Pin[10000 0 10000 2000 10600 5000 "" "2" "edge2"]

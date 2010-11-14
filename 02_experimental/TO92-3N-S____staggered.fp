@@ -4,7 +4,7 @@
 # use-license: unlimited
 # vendor: 
 
-Element["" "TO92-3N-S" "Q?" "" 0 0 0 -15000 0 100 ""]
+Element["" "TO92-3N-S____staggered" "Q?" "" 0 0 0 -15000 0 100 ""]
 (
    Pin[-5000 0 5200 2000 5800 3200 "" "1" "edge2"]
    Pin[0 5000 5200 2000 5800 3200 "" "2" "edge2"]

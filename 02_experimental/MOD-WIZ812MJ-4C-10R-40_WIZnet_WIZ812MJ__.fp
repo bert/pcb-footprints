@@ -1,6 +1,6 @@
 # author: Jim [jim@k4gvo.com]
 
-Element["" "MOD-WIZ812MJ-4C-10R-40_WIZnet_WIZ812MJ__.fp" "WIZ812MJ" "" 0 0 -35000 -122461 0 100 ""]
+Element["" "MOD-WIZ812MJ-4C-10R-40_WIZnet_WIZ812MJ__" "A?" "WIZnet WIZ812MJ" 0 0 -35000 -122461 0 100 ""]
 (
   Pin[-45000 -45000 5118 2000 6318 3937 "MOSI" "J2_1" "square"]
   Pin[-45000 -35000 5118 2000 6318 3937 "D1" "J2_3" ""]

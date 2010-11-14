@@ -4,7 +4,7 @@
 # use-license: unlimited
 # vendor: Motorola Semiconductor
 
-Element["" "TO92-EBC-3N-S" "Q?" "BC547B" 0 0 0 -15000 0 100 ""]
+Element["" "TO92-EBC-3N-S_Motorola_BC547B__staggered" "Q?" "BC547B" 0 0 0 -15000 0 100 ""]
 (
    Pin[-5000 0 5200 2000 5800 3200 "e" "1" "edge2"]
    Pin[0 5000 5200 2000 5800 3200 "b" "2" "edge2"]

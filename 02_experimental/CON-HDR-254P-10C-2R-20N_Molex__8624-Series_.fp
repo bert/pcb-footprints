@@ -4,7 +4,7 @@
 # dist-license:
 # use-license:
 
-Element[0x0 "CON-HDR-254P-10C-2R-20N" "J?" "Molex__8624-Series" 0 0 -49500 -17000 0 100 0x0]
+Element[0x0 "CON-HDR-254P-10C-2R-20N_Molex__8624-Series_" "J?" "Molex__8624-Series" 0 0 -49500 -17000 0 100 0x0]
 (
    Pin[-45000 5000 6600 2000 8600 4600 "" "1" 0x0101]
    Pin[-45000 -5000 6600 2000 8600 4600 "" "2" 0x01]

@@ -4,7 +4,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element(0x0 "RES1270-635X229" "R?" "0.6W" -200 -115 -200 100 0x0)
+Element(0x0 "RES1270-635X229____0.6W" "R?" "0.6W" -200 -115 -200 100 0x0)
 (
    Pin(-250 0 60 40 "" "1" 0x0101)
    Pin(250 0 60 40 "" "2" 0x01)

@@ -5,7 +5,7 @@
 # use-license: unlimited
 # description: 0.6W thru hole resistor
 
-Element["" "RES1016-635X229" "R?" "0.6W" -20000 -11500 0 0 0 100 ""]
+Element["" "RES1016-635X229____0.6W" "R?" "0.6W" -20000 -11500 0 0 0 100 ""]
 (
    Pin[-20000 0 6000 2000 6600 4000 "" "1" "edge2"]
    Pin[20000 0 6000 2000 6600 4000 "" "2" "edge2"]

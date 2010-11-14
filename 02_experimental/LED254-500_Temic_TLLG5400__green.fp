@@ -3,7 +3,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element[0x0 "LED254-500" "D?" "Temic_TLLG5400__green" 0 0 12000 -7000 0 100 0x0]
+Element[0x0 "LED254-500_Temic_TLLG5400__green" "LED?" "Temic TLLG5400 green" 0 0 12000 -7000 0 100 0x0]
 (
         Pin[5000 0 7500 2000 9500 4600 "C" "1" 0x101]
         Pin[-5000 0 7500 2000 9500 4600 "A" "2" 0x01]

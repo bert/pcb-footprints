@@ -4,7 +4,7 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element(0x00 "CON-SIL-254P-8N" "J?" "8 pin SIL connector" 160 0 3 100 0x00)
+Element(0x00 "CON-SIL-254P-8N____" "J?" "8 pin SIL connector" 160 0 3 100 0x00)
 (
         Pin(0 0 60 38 "1" 0x101)
 	Pin(0 100 60 38 "2" 0x01)

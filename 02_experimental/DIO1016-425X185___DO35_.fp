@@ -4,7 +4,7 @@
 # use-license: unlimited
 # description: 400 mil pitch DO35 diode
 
-Element["" "DIO1016-425X185___DO35_.fp" "D?" "" -20000 -11500 0 0 0 100 ""]
+Element["" "DIO1016-425X185___DO35_" "D?" "" -20000 -11500 0 0 0 100 ""]
 (
    Pin[-20000 0 6000 2000 6600 3200 "C" "1" "edge2"]
    Pin[20000 0 6000 2000 6600 3200 "A" "2" "edge2"]

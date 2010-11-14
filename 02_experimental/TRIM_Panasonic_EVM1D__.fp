@@ -5,7 +5,7 @@
 # mfg: Panasonic
 # mfg_no: EVM1D
 
-Element["" "TRIM_Panasonic_EVM1D__.fp" "R?" "" 0 0 0 0 0 100 ""]
+Element["" "TRIM_Panasonic_EVM1D__" "R?" "" 0 0 0 0 0 100 ""]
 (
 	Pad[-5708 7676 -5708 6890 5118 787 6692 "A" "1" "square"]
 	Pad[5708 7676 5708 6890 5118 787 6692 "C" "2" "square"]
