@@ -1,4 +1,4 @@
-Element["" "0603 1.6mm x 0.8mm, 0.3mm terminal" "" "" 0 0 0 0 0 100 ""] (
+Element["" "0603" "" "" 0 0 0 0 0 100 ""] (
          # Generated 13-June-2007 gedasymbols.org two pad footprint generator
          # C = 8 mil
          # M = 6 mil
