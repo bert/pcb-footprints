@@ -3,10 +3,10 @@
 # dist-license: GPL
 # use-license: unlimited
 
-Element["" "CAPR750-490X750X900____" "C?" "" 54134 273622 0 0 0 100 ""]
+Element["" "CAPRR750W50L900T490H750____" "C?" "" 54134 273622 0 0 0 100 ""]
 (
-	Pin[-14764 0 6000 2000 6600 3000 "" "1" "edge2"]
-	Pin[14764 0 6000 2000 6600 3000 "" "2" "edge2"]
+	Pin[-14764 0 6000 2000 6000 3000 "" "1" "edge2"]
+	Pin[14764 0 6000 2000 6000 3000 "" "2" "edge2"]
 # draw a package outline on the silkscreen
 	ElementLine [14764 -9646 -14764 -9646 1000]
 	ElementLine [14764 9646 -14764 9646 1000]
