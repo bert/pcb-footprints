@@ -5,7 +5,7 @@
 # vendor: TDK-Epcos
 # vendor_PN: B32529C???+***
 
-Element["" "CAPRR750-900X320X610_Epcos__B32529_MKT" "C?" "" 54134 273622 0 0 0 100 ""]
+Element["" "CAPRR750W50L900T320H610_Epcos__B32529_MKT" "C?" "" 54134 273622 0 0 0 100 ""]
 (
 	Pin[-14764 0 6000 2000 6600 3000 "" "1" "edge2"]
 	Pin[14764 0 6000 2000 6600 3000 "" "2" "edge2"]
