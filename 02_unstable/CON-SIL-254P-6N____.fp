@@ -1,4 +1,3 @@
-# vendor:
 # author: Bert Timmerman
 # email: bert.timmerman@xs4all.nl
 # dist-license: GPL
