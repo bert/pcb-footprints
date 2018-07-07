@@ -1,11 +1,12 @@
-# author: Bert Timmerman
-# email: bert.timmerman@xs4all.nl
-# dist-license: GPL
-# use-license: unlimited
-
 Element(0x00 "SSOP28____" "U?" "" 184 50 3 100 0x00)
 (
+	Attribute("author" "Bert Timmerman")
+	Attribute("email" "bert.timmerman@xs4all.nl")
+	Attribute("dist-license" "GPL")
+	Attribute("use-license" "unlimited")
+
 	Mark(165 180)
+
 	Pad(8 12 30 12 16 "1" 0x100)
 	Pad(8 38 30 38 16 "2" 0x100)
 	Pad(8 63 30 63 16 "3" 0x100)
