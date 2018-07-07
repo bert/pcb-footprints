@@ -1,10 +1,9 @@
-# vendor:
 # author: Bert Timmerman
 # email: bert.timmerman@xs4all.nl
 # dist-license: GPL
 # use-license: unlimited
 
-Element[0x00000000 "DIPS28300____" "" "" 135000 315000 0 0 0 100 0x00000000]
+Element[0x00000000 "DIPS28300____" "U?" "DIP Socket 28 pins 300 mil wide" 135000 315000 0 0 0 100 0x00000000]
 (
 	Pin[-15000 -65000 6000 3000 6600 2800 "" "1" 0x00000101]
 	Pin[-15000 -55000 6000 3000 6600 2800 "" "2" 0x00000001]
