@@ -1,22 +1,53 @@
-# This footprint is free software; you may redistribute it and/or modify
-# it under the terms of the GNU General Public License as published by the
-# Free Software Foundation; either version 2 of the License, or (at your
-# option) any later version.
-# As a special exception, if you create a design which uses this
-# footprint, and embed this footprint or unaltered portions of this
-# footprint into the design, this footprint does not by itself cause
-# the resulting design to be covered by the GNU General Public
-# License.
-# This exception does not however invalidate any other reasons why
-# the design itself might be covered by the GNU General Public
-# License.
-# If you modify this footprint, you may extend this exception to your
-# version of the footprint, but you are not obligated to do so.
-# If you do not wish to do so, delete this exception statement from
-# your version.
-#
 Element["" "BGA676N100P26X26-2700X2700X260" "U?" "FG676" 0 0 0 -63149 0 100 ""]
 (
+# Write attributes
+	Attribute("author" "bert")
+	Attribute("dist-license" "GPL2")
+	Attribute("use-license" "unlimited2")
+	Attribute("status" "Experimental")
+	Attribute("attributes in footprint" "1")
+	Attribute("package body length" "27.000000")
+	Attribute("package body width" "27.000000")
+	Attribute("package height" "2.600000")
+	Attribute("package is radial" "0")
+	Attribute("number of pins" "676")
+	Attribute("number of columns" "26")
+	Attribute("number of rows" "26")
+	Attribute("pitch_x" "1.000000")
+	Attribute("pitch_y" "1.000000")
+	Attribute("count_x" "0")
+	Attribute("count_x" "0")
+	Attribute("pad_shape" "circular pad")
+	Attribute("pin_pad_exceptions" "")
+	Attribute("pin_1_position" "Upper left")
+	Attribute("pad_diameter" "0.600000")
+	Attribute("pin_drill_diameter" "0.000000")
+	Attribute("pin1_square" "0")
+	Attribute("pad_length" "0.000000")
+	Attribute("pad_width" "0.000000")
+	Attribute("pad_clearance" "0.100000")
+	Attribute("pad_solder_mask_clearance" "0.100000")
+	Attribute("thermal" "0")
+	Attribute("thermal_nopaste" "0")
+	Attribute("thermal_length" "0.000000")
+	Attribute("thermal_width" "0.000000")
+	Attribute("thermal_clearance" "0.000000")
+	Attribute("thermal_solder_mask_clearance" "0.000000")
+	Attribute("silkscreen_package_outline" "1")
+	Attribute("silkscreen_indicate_1" "1")
+	Attribute("silkscreen_line_width" "0.200000")
+	Attribute("courtyard" "1")
+	Attribute("courtyard_length" "27.000000")
+	Attribute("courtyard_width" "27.000000")
+	Attribute("courtyard_line_width" "0.050000")
+	Attribute("courtyard_clearance_with_package" "0.000000")
+	Attribute("c1" "0.000000")
+	Attribute("g1" "0.000000")
+	Attribute("z1" "0.000000")
+	Attribute("c2" "0.000000")
+	Attribute("g2" "0.000000")
+	Attribute("z2" "0.000000")
+
 	Pad[-49212 -49212 -49212 -49212 2362 393 3149 "A1" "1" ""]
 	Pad[-45275 -49212 -45275 -49212 2362 393 3149 "A2" "2" ""]
 	Pad[-41338 -49212 -41338 -49212 2362 393 3149 "A3" "3" ""]
@@ -707,52 +738,4 @@ Element["" "BGA676N100P26X26-2700X2700X260" "U?" "FG676" 0 0 0 -63149 0 100 ""]
 	ElementLine[53149 -53149 53149 53149 196]
 	ElementLine[-53149 -53149 53149 -53149 196]
 	ElementLine[53149 53149 -53149 53149 196]
-# Write attributes
-	Attribute("author" "bert")
-	Attribute("dist-license" "GPL2")
-	Attribute("use-license" "unlimited2")
-	Attribute("status" "Experimental")
-	Attribute("attributes in footprint" "1")
-	Attribute("package body length" "27.000000")
-	Attribute("package body width" "27.000000")
-	Attribute("package height" "2.600000")
-	Attribute("package is radial" "0")
-	Attribute("number of pins" "676")
-	Attribute("number of columns" "26")
-	Attribute("number of rows" "26")
-	Attribute("pitch_x" "1.000000")
-	Attribute("pitch_y" "1.000000")
-	Attribute("count_x" "0")
-	Attribute("count_x" "0")
-	Attribute("pad_shape" "circular pad")
-	Attribute("pin_pad_exceptions" "")
-	Attribute("pin_1_position" "Upper left")
-	Attribute("pad_diameter" "0.600000")
-	Attribute("pin_drill_diameter" "0.000000")
-	Attribute("pin1_square" "0")
-	Attribute("pad_length" "0.000000")
-	Attribute("pad_width" "0.000000")
-	Attribute("pad_clearance" "0.100000")
-	Attribute("pad_solder_mask_clearance" "0.100000")
-	Attribute("thermal" "0")
-	Attribute("thermal_nopaste" "0")
-	Attribute("thermal_length" "0.000000")
-	Attribute("thermal_width" "0.000000")
-	Attribute("thermal_clearance" "0.000000")
-	Attribute("thermal_solder_mask_clearance" "0.000000")
-	Attribute("silkscreen_package_outline" "1")
-	Attribute("silkscreen_indicate_1" "1")
-	Attribute("silkscreen_line_width" "0.200000")
-	Attribute("courtyard" "1")
-	Attribute("courtyard_length" "27.000000")
-	Attribute("courtyard_width" "27.000000")
-	Attribute("courtyard_line_width" "0.050000")
-	Attribute("courtyard_clearance_with_package" "0.000000")
-	Attribute("c1" "0.000000")
-	Attribute("g1" "0.000000")
-	Attribute("z1" "0.000000")
-	Attribute("c2" "0.000000")
-	Attribute("g2" "0.000000")
-	Attribute("z2" "0.000000")
-
 )
