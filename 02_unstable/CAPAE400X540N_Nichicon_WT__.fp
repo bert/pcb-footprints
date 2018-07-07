@@ -1,10 +1,11 @@
-# author: Bert Timmerman
-# email: bert.timmerman@xs4all.nl
-# dist-license: GPL
-# use-license: unlimited
-
 Element["" "CAPAE400X540N_Nichicon_WT__" "C?" "Nichicon WT series" 0 0 0 0 0 100 ""]
 (
+	Attribute("author" "Bert Timmerman")
+	Attribute("email" "bert.timmerman@xs4all.nl")
+	Attribute("dist-license" "GPL")
+	Attribute("use-license" "unlimited")
+	Attribute("vendor" "Nichicon")
+
 	Pad[-8268 0 -3543 0 5149 1000 6149 "+" "1" "square"]
 	Pad[8268 0 3543 0 5149 1000 6149 "-" "2" "square"]
 # Silk screen art
