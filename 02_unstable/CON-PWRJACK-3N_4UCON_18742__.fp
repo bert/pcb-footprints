@@ -1,10 +1,9 @@
-# author: Bert Timmerman
-# email: bert.timmerman@xs4all.nl
-# dist-license: GPL
-# use-license: unlimited
-
 Element["" "CON-PWRJACK-3N_4UCON_18742__.fp" "J?" "3 pin 5.5/2.1 mm Power Jack connector" 16.0000mm 16.0000mm 0.0000mm 0.0000mm 0 100 ""]
 (
+	Attribute("author" "Bert Timmerman")
+	Attribute("email" "bert.timmerman@xs4all.nl")
+	Attribute("dist-license" "GPL")
+	Attribute("use-license" "unlimited")
         Pin[13.6000mm 0.0000mm 2.8000mm 0.4000mm 3.0000mm 1.8000mm "1" "1" "square"]
 	Pin[7.8000mm 0.0000mm 2.8000mm 0.4000mm 3.0000mm 1.8000mm "2" "2" ""]
 	Pin[10.6000mm 4.8000mm 2.8000mm 0.4000mm 3.0000mm 1.8000mm "3" "3" ""]
