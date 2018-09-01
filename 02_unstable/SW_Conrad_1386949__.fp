@@ -22,5 +22,5 @@ Element["" "SW_Conrad_1386949__" "S?" "tactile switch NO" 0.0000mm 0.0000mm 0.00
 	ElementLine[-4.80000mm -3.2000mm 4.8000mm -3.2000mm 0.0001mm]
 	ElementLine[-4.80000mm 3.2000mm 4.8000mm 3.2000mm 0.0001mm]
 	ElementLine[-4.80000mm -3.2000mm -4.8000mm 3.2000mm 0.0001mm]
-	ElementLine[4.80000mm -3.2000mm 4.8000mm 3.3200mm 0.0001mm]
+	ElementLine[4.80000mm -3.2000mm 4.8000mm 3.200mm 0.0001mm]
 )
