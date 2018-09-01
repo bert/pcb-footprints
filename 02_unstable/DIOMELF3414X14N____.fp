@@ -1,9 +1,3 @@
-# description: SOD80 diode
-# author: Bert Timmerman
-# email: bert.timmerman@xs4all.nl
-# dist-license: GPL
-# use-license: unlimited
-
 Element["" "DIOMELF3414X14N____" "D?" "" 0 0 0 -14330 0 100 ""]
 (
 	Pad[-6496 1082 -6496 -1082 4330 787 5905 "C" "1" "square"]
@@ -18,5 +12,10 @@ Element["" "DIOMELF3414X14N____" "D?" "" 0 0 0 -14330 0 100 ""]
 	ElementLine[9645 -4330 9645 4330 196]
 	ElementLine[-9645 -4330 9645 -4330 196]
 	ElementLine[9645 4330 -9645 4330 196]
-
+# Attributes
+	Attribute("description" "SOD-80 diode")
+	Attribute("author" "Bert Timmerman")
+	Attribute("email" "bert.timmerman@xs4all.nl")
+	Attribute("dist-license" "GPL")
+	Attribute("use-license" "unlimited")
 )
