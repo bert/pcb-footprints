@@ -1,19 +1,23 @@
-# author: Bert Timmerman
-# email: bert.timmerman@xs4all.nl
-# dist-license: GPL
-# use-license: unlimited
-
-Element[0x00000000 "CAPC3216N" "C?" "" 0 0 -3150 -3150 0 100 ""]
+Element[0x00000000 "CAPC3216N____" "C?" "" 0 0 0 0 0 100 ""]
 (
-        Pad[-5905 -984 -5905 984 5118 2000 5718 "1" "1" "square"]
-        Pad[5905 -984 5905 984 5118 2000 5718 "2" "2" "square"]
-# draw a package outline on the silkscreen
-        ElementLine[-1968 -3543 1968 -3543 1000]
-        ElementLine[-1968 3543 1968 3543 1000]
-# draw a courtyard on the silkscreen
-        ElementLine[-9274 -4293 9274 -4293 1]
-        ElementLine[-9274 4293 9274 4293 1]
-        ElementLine[-9274 4293 -9274 -4293 1]
-        ElementLine[9274 4293 9274 -4293 1]
-
+        Pad[-1.500mm -0.200mm -1.500mm 0.200mm 1.200mm 1.400mm 1.400mm "1" "1" "square"]
+        Pad[1.500mm -0.200mm 1.500mm 0.200mm 1.200mm 1.400mm 1.400mm "2" "2" "square"]
+# Outline
+        ElementLine[-0.680mm -0.860mm 0.680mm -0.860mm 0.120mm]
+        ElementLine[-0.680mm 0.860mm 0.680mm 0.860mm 0.120mm]
+# Origin
+	ElementLine[0.4000mm 0.0000mm -0.4000mm 0.000mm 0.0100mm]
+	ElementLine[0.0000mm 0.4000mm 0.000mm -0.4000mm 0.0100mm]
+	ElementArc[0.0000mm 0.0000mm 0.2500mm 0.2500mm 0 360 0.010mm]
+# Courtyard
+        ElementLine[-2.300mm -0.960mm 2.300mm -0.960mm 0.001mm]
+        ElementLine[-2.300mm 0.960mm 2.300mm 0.960mm 0.001mm]
+        ElementLine[-2.300mm 0.960mm -2.300mm -0.960mm 0.001mm]
+        ElementLine[2.300mm 0.960mm 2.300mm -0.960mm 0.001mm]
+# Attributes
+	Attribute("description" "3216 Chip Capacitor")
+	Attribute("author" "Bert Timmerman")
+	Attribute("email" "bert.timmerman@xs4all.nl")
+	Attribute("dist-license" "GPL")
+	Attribute("use-license" "unlimited")
 )
