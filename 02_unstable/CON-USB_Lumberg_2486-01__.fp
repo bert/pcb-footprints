@@ -1,5 +1,5 @@
 
-Element["" "CON-USB_Lumberg_2486-01__.fp" "J?" "" 176.33mil 5.6788mm 94.48mil -301.97mil 0 100 ""]
+Element["" "CON-USB_Lumberg_2486-01__.fp" "J?" "Lumberg 2486-01" 176.33mil 5.6788mm 94.48mil -301.97mil 0 100 ""]
 (
 	Pin[0.0000 -2.2000mm 0.0200mm 0.2000mm 1.2000mm 0.9000mm "G" "6" "hole"]
 	Pin[0.0000 2.2000mm 0.0200mm 0.2000mm 1.2000mm 0.9000mm "G" "6" "hole"]
