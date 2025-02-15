@@ -16,7 +16,7 @@ Element["" "BGA676N100P26X26-2700X2700X260" "U?" "FG676" 0 0 0 -63149 0 100 ""]
 	Attribute("pitch_x" "1.000000")
 	Attribute("pitch_y" "1.000000")
 	Attribute("count_x" "0")
-	Attribute("count_x" "0")
+	Attribute("count_y" "0")
 	Attribute("pad_shape" "circular pad")
 	Attribute("pin_pad_exceptions" "")
 	Attribute("pin_1_position" "Upper left")
